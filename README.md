@@ -97,6 +97,3 @@ More broadly, our goals with this assignment are to:
 
    1. build a mental model of the structure of the local Git repository (the one on your computer). What is in the staging area? What is in the commit log? Building and maintaining a mental model of what is going on is a key skill in working with code, even beyond GitHub.
    2. build some muscle memory around using Git from the command line, as we will be using these tools every day for the rest of the class
-
-
-   

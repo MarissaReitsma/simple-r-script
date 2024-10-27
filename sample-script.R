@@ -12,3 +12,6 @@ data <- read.csv('data.csv')
 
 
 # calculate summary statistics --------------------------------
+```{r}
+lapply(data, summary)
+```
